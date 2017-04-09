@@ -33,4 +33,4 @@ You have the following CLI commands available:
 Backend
 
 - `dotnet build`
-- `dotnet run`
+- `dotnet run`  and serves it on http://localhost:5000
