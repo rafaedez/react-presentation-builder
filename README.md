@@ -14,8 +14,8 @@ This project has been tested with node v7.7.1 and npm 4.1.2.
 
 Frontend
 
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 You have the following CLI commands available:
 
@@ -32,5 +32,5 @@ You have the following CLI commands available:
 
 Backend
 
-dotnet build
-dotnet run
+- dotnet build
+- dotnet run
