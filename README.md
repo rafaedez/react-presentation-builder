@@ -12,6 +12,11 @@ This project has been tested with node v7.7.1 and npm 4.1.2.
 
 ## Helpful commands
 
+Frontend
+
+npm install
+npm run dev
+
 You have the following CLI commands available:
 
 - `npm run dev` Runs the project with `webpack-dev-server` and serves it on http://localhost:3333
@@ -23,3 +28,9 @@ You have the following CLI commands available:
 - `npm run build` Runs Webpack build
 
 - `npm run serve` Serves the `build/` folder contents
+
+
+Backend
+
+dotnet build
+dotnet run
