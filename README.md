@@ -4,7 +4,8 @@ This is a project for Vanhackathon built with React.js.
 
 <img width="800" src="https://github.com/rafaedez/react-presentation-builder/blob/master/Utils/presentation-builder-1.PNG">
 
-<img width="800" src="https://github.com/rafaedez/react-presentation-builder/blob/master/Utils/presentation-builder-1.PNG">
+Mockup for New Presentation
+<img width="800" src="https://github.com/rafaedez/react-presentation-builder/blob/master/Utils/presentation-builder.png">
 
 You can fork and clone the project and run `npm install` to install the external dependencies.
 This project has been tested with node v7.7.1 and npm 4.1.2.
