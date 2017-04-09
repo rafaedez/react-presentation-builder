@@ -1,0 +1,29 @@
+:local(.UploadPDF) {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	height: 300px;
+	justify-content: center;
+
+
+	.dropzone {
+		font-size: 20px;
+		width: 90%;
+		height: 100%;
+		text-align: center;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		background-color: #C0C0C0;
+		border-style: dashed;
+		border-color: #FFFFFF;
+	}
+
+	.dropzone > button {
+		background-color: #204671;
+		font-size: 40px;
+		color: #FFFFFF;
+		margin: 10px;
+	}
+}
